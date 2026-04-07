@@ -292,7 +292,4 @@ else:
     - Missing value strategies  
     - Interactive Streamlit classifier  
     - Model artifacts and visualizations saved under `figures/` and `app/`
-
-    **Group Members:**  
-    Mirza Baig, Hashmat Jadoon, Taha Hashmi, Divine Consile Dikoka, Maximillian Dow
     """)
