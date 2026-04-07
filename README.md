@@ -51,18 +51,23 @@ Users input mushroom characteristics, and the model predicts whether it is edibl
 
 ### Class Distribution
 ![Class Distribution](figures/class_distribution.png)
+- Distribution of poisonous vs edibile mushrooms
 
 ### Odor vs Class
 ![Odor vs Class](figures/odor_vs_class.png)
+- Odor is a strong predictor, with certain smells clearly associated with poisonous mushrooms.
 
 ### Habitat vs Class
 ![Habitat vs Class](figures/habitat_vs_class.png)
+- Habitat shows noticeable patterns, where some environments have a higher proportion of poisonous mushrooms.
 
 ### Cap Color vs Class
 ![Cap Color vs Class](figures/cap-color_vs_class.png)
+- Cap color provides moderate distinction, though there is overlap between edible and poisonous classes.
 
 ### Bruises vs Class
 ![Bruises vs Class](figures/bruises_vs_class.png)
+- The presence or absence of bruises is a useful indicator, with bruising mushrooms more likely to be edible.
 
 ---
 
@@ -70,3 +75,4 @@ Users input mushroom characteristics, and the model predicts whether it is edibl
 
 ### Confusion Matrix
 ![Confusion Matrix](figures/confusion_matrix.png)
+- The confusion matrix shows high classification accuracy with very few misclassifications between edible and poisonous mushrooms.
