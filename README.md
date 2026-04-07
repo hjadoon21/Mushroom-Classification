@@ -46,3 +46,27 @@ Users input mushroom characteristics, and the model predicts whether it is edibl
 
 ## EDA
 - "EDA Visuals" shows plots generated from the dataset.
+
+## Data Visualizations
+
+### Class Distribution
+![Class Distribution](figures/class_distribution.png)
+
+### Odor vs Class
+![Odor vs Class](figures/odor_vs_class.png)
+
+### Habitat vs Class
+![Habitat vs Class](figures/habitat_vs_class.png)
+
+### Cap Color vs Class
+![Cap Color vs Class](figures/cap-color_vs_class.png)
+
+### Bruises vs Class
+![Bruises vs Class](figures/Bruises_vs_class.png)
+
+---
+
+## Model Performance
+
+### Confusion Matrix
+![Confusion Matrix](figures/confusion_matrix.png)
