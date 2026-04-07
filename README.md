@@ -35,7 +35,9 @@ Users input mushroom characteristics, and the model predicts whether it is edibl
 1. Install dependencies:
    pip install streamlit pandas scikit-learn joblib
 2. Run the UI:
-  python -m streamlit run app.py
+   python -m streamlit run app.py
+   Or
+   py -m streamlit run app.py
 
 ## Using the Classifier
 - Go to the "Classifier" page in the sidebar.
