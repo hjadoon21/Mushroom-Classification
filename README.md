@@ -62,7 +62,7 @@ Users input mushroom characteristics, and the model predicts whether it is edibl
 ![Cap Color vs Class](figures/cap-color_vs_class.png)
 
 ### Bruises vs Class
-![Bruises vs Class](figures/Bruises_vs_class.png)
+![Bruises vs Class](figures/bruises_vs_class.png)
 
 ---
 
